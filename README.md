@@ -5,8 +5,7 @@
 - <b>Data Analytics and Dashboards (PowerBi, Tableau, Excel)</b>
   - [🛍️ Retail Transaction Analytics Dashboard (Power BI)](https://github.com/Uchechukwu-Efifie/Retail-Store-Transaction-Analytics)
 - <b>R (R Studio)</b>
-  - [Fitbit Activity & Wellness Data Analysis](README.md) <b><i>
-[Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Fitbit Activity & Wellness Data Analysis](README.md) <b>
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
