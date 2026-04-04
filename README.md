@@ -6,8 +6,7 @@
   - [🛍️ Retail Transaction Analytics Dashboard (Power BI)](https://github.com/Uchechukwu-Efifie/Retail-Store-Transaction-Analytics)
 - <b>R (R Studio)</b>
   - [Fitbit Activity & Wellness Data Analysis](https://github.com/Uchechukwu-Efifie/Fitbit-Activity-Wellness-Data-Analysis/tree/main) <b>
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- 
 
 
 <h2> 🤳 Connect with me:</h2>
