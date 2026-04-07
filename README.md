@@ -2,7 +2,9 @@
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
-- <b>Data Analytics and Dashboards (PowerBi, Tableau, Excel)</b>
+- <b>Data Engineering, Data Analytics and Dashboards (Python, Google Looker Studio, Google Sheet)</b>
+  - [🛍️ Retail Transaction Analytics Dashboard (Power BI)](https://github.com/Uchechukwu-Efifie/Retail-Store-Transaction-Analytics)
+- <b>Data Analytics and Dashboards (PowerBi, Excel)</b>
   - [🛍️ Retail Transaction Analytics Dashboard (Power BI)](https://github.com/Uchechukwu-Efifie/Retail-Store-Transaction-Analytics)
 - <b>R (R Studio)</b>
   - [Fitbit Activity & Wellness Data Analysis](https://github.com/Uchechukwu-Efifie/Fitbit-Activity-Wellness-Data-Analysis/tree/main) <b>
