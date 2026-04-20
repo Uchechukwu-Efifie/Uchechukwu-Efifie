@@ -1,6 +1,9 @@
 <h1>Hi, I'm Uche! <br/><a href="https://github.com/Uchechukwu-Efifie">Data Scientist, Data Analyst</a>, <a href="https://www.linkedin.com/in/uchechukwu-efifie-b7420047">Public Health Professional</a>
 
-<h2>👨‍💻 Data Science Projects:</h2>
+<h2>👨‍💻 Data Science | Data Analytics Projects:</h2>
+
+- <b>Data Analytics and Dashboards (MS PowerBI)</b>
+  - [Nigeria Agricultural Export Analytics Dashboard (Microsoft PowerBi)](https://github.com/Uchechukwu-Efifie/Nigeria-Agricultural-Export-Analytics-Strategic-BI-Market-Intelligence)
 
 - <b>Data Engineering, Data Analytics and Dashboards (Python, Google Looker Studio, Google Sheet)</b>
   - [👨‍💻 GUGUTA's National Maternal and Neonatal Emergency Data Drill Dashboard (Python, Google Looker Studio)](https://github.com/Uchechukwu-Efifie/GUGUTA-s-Maternal-Emergency-Data-Drill-Dashboard)
