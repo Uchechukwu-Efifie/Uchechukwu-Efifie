@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Data Science | Data Analytics Projects:</h2>
 
-- <b>Data Analytics and Dashboards (MS PowerBI)</b>
+- <b>Data Analytics and Dashboard (MS PowerBI)</b>
   - [Nigeria Agricultural Export Analytics Dashboard (Microsoft PowerBi)](https://github.com/Uchechukwu-Efifie/Nigeria-Agricultural-Export-Analytics-Strategic-BI-Market-Intelligence)
 
 - <b>Data Engineering, Data Analytics and Dashboards (Python, Google Looker Studio, Google Sheet)</b>
@@ -11,7 +11,7 @@
 - <b>Data Analytics and Dashboards (PowerBi, Excel)</b>
   - [🛍️ Retail Transaction Analytics Dashboard (Power BI)](https://github.com/Uchechukwu-Efifie/Retail-Store-Transaction-Analytics)
     
-- <b>R (R Studio)</b>
+- <b>Data Analysis, Modeling and Regression testing (R Studio)</b>
   - [Fitbit Activity & Wellness Data Analysis](https://github.com/Uchechukwu-Efifie/Fitbit-Activity-Wellness-Data-Analysis/tree/main) <b>
 - 
 
