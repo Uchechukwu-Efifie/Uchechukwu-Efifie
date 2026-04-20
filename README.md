@@ -13,7 +13,7 @@
     
 - <b>Data Analysis, Modeling and Regression testing (R Studio)</b>
   - [Fitbit Activity & Wellness Data Analysis](https://github.com/Uchechukwu-Efifie/Fitbit-Activity-Wellness-Data-Analysis/tree/main) <b>
-- 
+  
 
 
 <h2> 🤳 Connect with me:</h2>
