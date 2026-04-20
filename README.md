@@ -2,13 +2,13 @@
 
 <h2>👨‍💻 Data Science | Data Analytics Projects:</h2>
 
-- <b>Data Analytics and Dashboard (MS PowerBI)</b>
+- <b>Data Analytics and Dashboard (MS PowerBI, Excel)</b>
   - [Nigeria Agricultural Export Analytics Dashboard (Microsoft PowerBi)](https://github.com/Uchechukwu-Efifie/Nigeria-Agricultural-Export-Analytics-Strategic-BI-Market-Intelligence)
 
 - <b>Data Engineering, Data Analytics and Dashboards (Python, Google Looker Studio, Google Sheet)</b>
   - [👨‍💻 GUGUTA's National Maternal and Neonatal Emergency Data Drill Dashboard (Python, Google Looker Studio)](https://github.com/Uchechukwu-Efifie/GUGUTA-s-Maternal-Emergency-Data-Drill-Dashboard)
     
-- <b>Data Analytics and Dashboards (PowerBi, Excel)</b>
+- <b>Data Analytics and Dashboards (MS PowerBI, Excel)</b>
   - [🛍️ Retail Transaction Analytics Dashboard (Power BI)](https://github.com/Uchechukwu-Efifie/Retail-Store-Transaction-Analytics)
     
 - <b>Data Analysis, Modeling and Regression testing (R Studio)</b>
